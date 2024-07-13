@@ -1,1 +1,1 @@
-The Files contain Html Css and a bit of Java script.
+The Files contain Html, CSS, and a bit of Java script.
